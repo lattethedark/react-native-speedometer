@@ -142,7 +142,7 @@ class Speedometer extends Component {
 }
 
 Speedometer.defaultProps = {
-  defaultValue: 50,
+  defaultValue: 20,
   minValue: 0,
   maxValue: 100,
   easeDuration: 500,
